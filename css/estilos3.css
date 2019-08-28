@@ -1,0 +1,31 @@
+body{
+    background-color: #530707;
+}
+
+h1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 3px solid #00b8e4;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#boton{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+    border: 1px solid #00b8e4;
+}
+
+#logo{
+    display: block;
+    margin: auto;
+}

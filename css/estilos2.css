@@ -1,0 +1,33 @@
+a{
+text-decoration: none;
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+color: black;
+}
+
+#titulo{
+    text-align: center;
+    background-color: #00b8e4;
+}
+
+label{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+input{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: aliceblue;
+}
+
+#boton{
+    font-size: 15px;
+    background-color: aliceblue;
+}
+
+legend{
+    font-size: 20px;
+    font-weight: 500;
+}
